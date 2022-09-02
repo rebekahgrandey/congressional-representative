@@ -1,0 +1,16 @@
+.main {
+    border: 3px solid black;
+}
+
+.main__bio {
+    color: blue;
+}
+
+.main__committees {
+    color: green;
+}
+
+.main__legislation {
+    color: gray;
+}
+
